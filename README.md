@@ -6,4 +6,4 @@ C# utilities that you will use using `using package;`, which includes namespace 
 2. Extract the file after downloaded.
 3. Put the C# file in your local directory.
 4. Open code editors like **Visual Studio** or **Visual Studio Code (VSCode)** and then locate the directory like `C:\Users\Username\`
-5. `using ` directives like `using System;`
+5. `using` directives like `using System;`
