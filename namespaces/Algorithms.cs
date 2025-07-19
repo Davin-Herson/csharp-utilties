@@ -29,7 +29,7 @@ namespace Algorithms
         public static double Sinh(double a) => Math.Sinh(a);
         public static double Abs(double a) => Math.Abs(a);
         public static double Sqrt(double a) => Math.Sqrt(a);
-        public static void Cbrt(double a) => Math.Pow(a, 1.0 / 3.0);
+        public static double Cbrt(double a) => Math.Pow(a, 1.0 / 3.0);
         public static int Xor(int a, int b) => a ^ b;
         public static int Not(int a) => ~a;
         public static int And(int a, int b) => a & b;
